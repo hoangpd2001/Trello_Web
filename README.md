@@ -5,24 +5,7 @@
 ---
 
 
-## Cài đặt dự án
-- Clone dự án: 
-    git clone https://github.com/letung234/Trello_Web.git
 
-- Truy cập vào thư mục dự án: 
-    cd Trello_Web
-
-- Cài đặt các package: 
-    npm install
-
-- Chạy dự án: 
-    npm run dev
-## Demo
-- Link: [Quản lý công việc Trello](https://trello-web-lake-ten.vercel.app/)
-  
-## Thông tin đăng nhập
-- Tài khoản: tunglt072603@gmail.com
-- Mật khẩu: Letung1227
 
 ## 🧩 Chức năng trong dự án
 
@@ -53,7 +36,3 @@ Dự án cung cấp các chức năng quản lý công việc với các tính n
 Cảm ơn bạn đã ghé thăm và dành thời gian tham khảo dự án của tôi.
 Hy vọng dự án này sẽ mang lại giá trị cho bạn trong quá trình học tập và phát triển kỹ năng lập trình.
 Rất mong nhận được góp ý hoặc đóng góp từ bạn để dự án ngày càng hoàn thiện hơn! 💙
-
-📫 Liên hệ
-Bạn có thể kết nối với tôi qua:
-📧 Email: [tunglt072603@gmail.com]
